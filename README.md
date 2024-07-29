@@ -1,4 +1,4 @@
 # dice-rolling-simulator
 Simulation of throwing picked numbers of dices.
 
-Don't gamble!
+Have fun and don't gamble!
